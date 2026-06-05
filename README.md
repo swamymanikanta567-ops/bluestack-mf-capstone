@@ -1,0 +1,30 @@
+# Bluestock Mutual Fund Capstone
+
+## Project Overview
+This project analyzes mutual fund data using Python, SQLite, SQL and Exploratory Data Analysis (EDA).
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- SQLite
+- SQL
+- Jupyter Notebook
+
+## Project Structure
+- data/
+- notebooks/
+- scripts/
+- sql/
+- reports/
+
+## Key Findings
+- SBI Mutual Fund has the highest AUM.
+- NAV distribution is right-skewed.
+- Large-cap funds dominate the dataset.
+- SIP inflows show growth trends.
+- Several schemes outperform category averages.
+
+## Author
+Swamy Manikanta
