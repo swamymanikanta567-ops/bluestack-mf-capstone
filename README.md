@@ -28,3 +28,17 @@ This project analyzes mutual fund data using Python, SQLite, SQL and Exploratory
 
 ## Author
 Swamy Manikanta
+
+## Dashboard
+
+Built using Streamlit.
+
+Features:
+- Top CAGR Funds
+- Sharpe Ratio Ranking
+- Maximum Drawdown Analysis
+- Top Daily Return Funds
+
+Run dashboard:
+
+streamlit run dashboard/app.py
