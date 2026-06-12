@@ -42,3 +42,16 @@ Features:
 Run dashboard:
 
 streamlit run dashboard/app.py
+
+Advanced Analytics
+
+1. Sharpe Ratio Analysis
+2. Sortino Ratio Analysis
+3. Alpha Beta Analysis
+4. Maximum Drawdown Analysis
+5. Rolling Sharpe Ratio
+6. VaR & CVaR Analysis
+7. HHI Concentration Analysis
+8. Investor Cohort Analysis
+9. SIP Continuity Analysis
+10. Fund Recommendation Engine
