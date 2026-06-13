@@ -26,11 +26,11 @@ An end-to-end Mutual Fund Analytics Dashboard built using Python, SQL, SQLite, P
 
 ### Dashboard Home
 
-![Dashboard Home](screenshots/dashboard_home.png)
+![Dashboard Home](screenshots/dashboard_home.png.png)
 
 ### Investor Cohort Analysis
 
-![Investor Cohort](screenshots/investor_cohort_analysis.png)
+![Investor Cohort](screenshots/investor_cohort_analysis and fund_recommendation.png.png)
 
 ### Risk Analysis
 
@@ -38,11 +38,11 @@ An end-to-end Mutual Fund Analytics Dashboard built using Python, SQL, SQLite, P
 
 ### HHI Concentration Analysis
 
-![HHI Analysis](screenshots/hhi_analysis.png)
+![HHI Analysis](screenshots/var_cvar_analysis and hhi_concentration.png.png)
 
 ### Fund Recommendation
 
-![Fund Recommendation](screenshots/fund_recommendation.png)
+![Fund Recommendation](screenshot/sharpe_ratio_analysis.png.png)
 
 ## Author
 
