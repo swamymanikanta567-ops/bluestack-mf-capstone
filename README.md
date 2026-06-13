@@ -1,57 +1,57 @@
-# Bluestock Mutual Fund Capstone
+# Bluestock Mutual Fund Analytics Dashboard
 
-## Project Overview
-This project analyzes mutual fund data using Python, SQLite, SQL and Exploratory Data Analysis (EDA).
+## Overview
 
-## Technologies Used
+An end-to-end Mutual Fund Analytics Dashboard built using Python, SQL, SQLite, Pandas, and Streamlit.
+
+## Features
+
+- CAGR Analysis
+- Sharpe Ratio Analysis
+- VaR/CVaR Analysis
+- HHI Concentration Analysis
+- Investor Cohort Analysis
+- Fund Recommendation System
+
+## Tech Stack
+
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- SQLite
 - SQL
-- Jupyter Notebook
+- SQLite
+- Pandas
+- Streamlit
+- Matplotlib
 
-## Project Structure
-- data/
-- notebooks/
-- scripts/
-- sql/
-- reports/
+## Dashboard Screenshots
 
-## Key Findings
-- SBI Mutual Fund has the highest AUM.
-- NAV distribution is right-skewed.
-- Large-cap funds dominate the dataset.
-- SIP inflows show growth trends.
-- Several schemes outperform category averages.
+### Dashboard Home
+
+![Dashboard Home](screenshots/dashboard_home.png)
+
+### Investor Cohort Analysis
+
+![Investor Cohort](screenshots/investor_cohort_analysis.png)
+
+### Risk Analysis
+
+![Risk Analysis](screenshots/risk_analysis.png)
+
+### HHI Concentration Analysis
+
+![HHI Analysis](screenshots/hhi_analysis.png)
+
+### Fund Recommendation
+
+![Fund Recommendation](screenshots/fund_recommendation.png)
 
 ## Author
-Swamy Manikanta
 
-## Dashboard
+Swamy Manikanta Vasamsetti
 
-Built using Streamlit.
+## Key Highlights
 
-Features:
-- Top CAGR Funds
-- Sharpe Ratio Ranking
-- Maximum Drawdown Analysis
-- Top Daily Return Funds
-
-Run dashboard:
-
-streamlit run dashboard/app.py
-
-Advanced Analytics
-
-1. Sharpe Ratio Analysis
-2. Sortino Ratio Analysis
-3. Alpha Beta Analysis
-4. Maximum Drawdown Analysis
-5. Rolling Sharpe Ratio
-6. VaR & CVaR Analysis
-7. HHI Concentration Analysis
-8. Investor Cohort Analysis
-9. SIP Continuity Analysis
-10. Fund Recommendation Engine
+- Analyzed 14,000+ Mutual Fund Schemes
+- Built Automated ETL Pipelines
+- Generated Financial Risk Metrics
+- Developed Interactive Streamlit Dashboard
+- Performed Investor Cohort & Fund Recommendation Analysis
